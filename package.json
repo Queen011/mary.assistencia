@@ -1,0 +1,23 @@
+{
+  "name": "mary-assistencia",
+  "version": "1.0.0",
+  "description": "Website para Mary Assistência - Soluções Digitais",
+  "main": "src/index.html",
+  "scripts": {
+    "dev": "live-server src",
+    "serve": "http-server src -p 8080",
+    "build": "echo 'Build script aqui'",
+    "deploy": "echo 'Deploy script aqui'"
+  },
+  "keywords": [
+    "assistencia-digital",
+    "whatsapp-business",
+    "landing-page"
+  ],
+  "author": "Mariana Alcantara",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "prettier": "^3.0.0"
+  }
+}
