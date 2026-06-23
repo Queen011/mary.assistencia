@@ -1,0 +1,7 @@
+[build]
+  publish = "src"
+  command = "echo 'No build required'"
+
+[dev]
+  port = 8888
+  publish = "src"
